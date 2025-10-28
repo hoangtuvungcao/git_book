@@ -5,16 +5,16 @@
 </div>
 
 ## MỤC LỤC
-1. [Giới thiệu](#1-giới-thiệu)
-2. [Cài đặt Git](#2-cài-đặt-git)
-3. [Thiết lập Git lần đầu](#3-cấu-hình-git-ban-đầu)
-4. [Giải thích chi tiết các lệnh Git (đầy đủ nhất)](#4-giải-thích-đầy-đủ-các-lệnh-git-phổ-biến)
-5. [Làm việc với GitHub](#5-làm-việc-với-github)
-6. [Kết nối GitHub: SSH & HTTPS](#6-kết-nối-github-ssh--https)
-7. [Lỗi thường gặp & cách khắc phục](#7-lỗi-thường-gặp--cách-khắc-phục)
+1. [Giới thiệu](#1-giới-thiệu--tổng-quan-phân-tích-chi-tiết)
+2. [Cài đặt Git](#2-cài-đặt-git-phân-tích--thực-hành)
+3. [Thiết lập Git lần đầu](#3-cấu-hình-git-ban-đầu-phân-tích-chi-tiết)
+4. [Giải thích chi tiết các lệnh Git (đầy đủ nhất)](#4-giải-thích-đầy-đủ-các-lệnh-git-phổ-biến-phân-tích--ví-dụ)
+5. [Làm việc với GitHub](#5-làm-việc-với-github-từ-cơ-bản-đến-nâng-cao)
+6. [Kết nối GitHub: SSH & HTTPS](#6-kết-nối-github-với-git-ssh-vs-https-đầy-đủ-chi-tiết)
+7. [Lỗi thường gặp & cách khắc phục](#7-lỗi-thường-gặp--cách-khắc-phục-phân-tích-sâu)
 8. [Teamwork & workflow nhóm](#8-làm-việc-nhóm-với-git--github-teamwork-chuyên-nghiệp)
-9. [Lệnh nâng cao, mẹo & công cụ hỗ trợ](#9-lệnh-nâng-cao-mẹo--công-cụ-hỗ-trợ)
-10. [Tài nguyên tham khảo](#10-tài-nguyên-tham-khảo)
+9. [Lệnh nâng cao, mẹo & công cụ hỗ trợ](#9-lệnh-nâng-cao-mẹo--công-cụ-hỗ-trợ-phân-tích)
+10. [Tài nguyên tham khảo](#10-tài-nguyên-tham-khảo--lộ-trình-học)
 11. [Kết Luận & Gợi Ý Duy Trì ](#11-kết-luận--gợi-ý-duy-trì)
 12. [Giấy Phép](#12-giấy-phép)
 
